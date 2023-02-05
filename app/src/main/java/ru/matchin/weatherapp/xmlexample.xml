@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Car>
+    <Color>Red</Color>
+    <SeatsAmount>4</SeatsAmount>
+    <Cost>10000</Cost>
+</Car>
